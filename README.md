@@ -1,2 +1,4 @@
 # rest_api
-rest_api development using python and Django framework
+rest_api development using Python and Fastapi framework
+=======================================================
+
